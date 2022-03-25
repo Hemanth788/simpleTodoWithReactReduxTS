@@ -1,1 +1,1 @@
-Base project for the Todo state manager series
+A simple Todo app built With React, Redux and TypeScript
